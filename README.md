@@ -1,4 +1,4 @@
-eCommerce Data Analysis Project:
+Ecommerce Data Analysis Project:
 Overview:
 This project is an eCommerce data analysis tool designed to extract, transform, and analyze sales and customer data to provide actionable insights for business decision-making. The analysis focuses on key metrics such as sales performance, customer behavior, and product trends to optimize marketing strategies, inventory management, and overall business operations.
 
